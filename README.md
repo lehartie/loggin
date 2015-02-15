@@ -1,2 +1,3 @@
 # logging
-adsf
+
+A small logger class
